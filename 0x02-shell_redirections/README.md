@@ -8,3 +8,4 @@ script that displays the third line of the file iacta
 Script that creates a file containing a text
 script that writes into the file
 script that duplicates the last line of the file iacta
+script that deletes all the regular files
