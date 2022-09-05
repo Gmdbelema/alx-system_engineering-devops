@@ -9,3 +9,4 @@ Script that creates a file containing a text
 script that writes into the file
 script that duplicates the last line of the file iacta
 script that deletes all the regular files
+ script that counts the number of directories and sub-directories in the current directory
