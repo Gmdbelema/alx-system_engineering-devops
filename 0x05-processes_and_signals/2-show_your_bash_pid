@@ -1,0 +1,3 @@
+eys lines containing the bash word
+# shellcheck disable=SC2009
+ps -aux --forest | grep "bash"
