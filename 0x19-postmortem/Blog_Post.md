@@ -1,6 +1,6 @@
 # Postmortem
 
-![/c/Users/ZBOOK/Desktop/post-mortem-meetings.jpg.jpg](post-mortem-meetings.jpg)
+![/c/Users/ZBOOK/Desktop/post-mortem-meetings.jpg](post-mortem-meetings.jpg)
 
 ## Issue Summary
 
