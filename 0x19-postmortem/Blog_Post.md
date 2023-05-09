@@ -1,6 +1,6 @@
 # Postmortem
 
-![routs](post-mortem-meetings.jpg)
+![routs](/c/Users/ZBOOK/Desktop/post-mortem-meetings.jpg)
 
 ## Issue Summary
 
